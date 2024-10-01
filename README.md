@@ -21,12 +21,14 @@ The dataset used for this project is derived from Framingham, containing various
 
 
 Installation:
+
 To run this project, clone the repository and install the required libraries
-git clone:https://github.com/Hasan-Tech625/heart-disease-detection using ML Models.git
+git clone:https://github.com/Hasan-Tech625//heart-disease-detection using ML Models .git
 cd heart-disease-detection using ML Models
 pip install -r requirements.txt
 
 Usage:
+
 Data Preparation: Load and preprocess the data.
 
 Model Training: Train the models and evaluate their performance.
