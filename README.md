@@ -1,5 +1,6 @@
 # Heart-Disease-Detection-using-ML-Models
-Project Overview
+Project Overview:
+
 This project aims to develop a machine learning model for the early detection of heart disease. By leveraging various machine learning algorithms, we analyze patient data to identify patterns and risk factors associated with heart conditions. The ultimate goal is to provide a reliable tool for healthcare professionals that can assist in diagnosis and improve patient outcomes.
 
 Features
